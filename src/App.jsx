@@ -3,7 +3,7 @@ import profile from './assets/foto_muh.jpeg';
 
 function App() {
   return (
-    <body className="min-h-screen grid bg-[#141414] place-items-center">
+    <body className="mw-full grid bg-[#141414] place-items-center">
       <div className="bg-[#1f1f1f] size-auto p-10 flex-col rounded-lg">
         <div className="text-center">
           <div className="flex justify-center">
