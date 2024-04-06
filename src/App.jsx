@@ -13,7 +13,7 @@ function App() {
           <h1 className="text-lime-400 font-medium text-l">
             Depok, Indonesia
           </h1>
-          <div className="text- italic text-white pt-7 py-5">
+          <div className="text- italic text-white pt-7 py-5 text-base md:text-sm">
             "Front-end Developer and avid reader."
           </div>
           <div className="grid gap-4">
