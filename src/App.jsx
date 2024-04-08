@@ -4,7 +4,7 @@ import profile from './assets/foto_muh.jpeg';
 function App() {
   return (
     <div className="h-screen bg-[#141414] flex justify-center items-center overflow-hidden">
-    <div className="bg-[#1f1f1f] w-[80%] max-w-[400px] p-8 flex flex-col rounded-lg">
+    g<div className="bg-[#1f1f1f] w-[80%] max-w-[400px] p-8 flex flex-col rounded-l overflow-hidden">
       <div className="text-center">
         <div className="flex justify-center">
           <img src={profile} alt="foto-profile" className="rounded-full size-24"/>
